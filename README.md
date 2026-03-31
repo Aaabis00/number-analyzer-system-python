@@ -17,7 +17,7 @@ The project is built using modular programming, where the main program handles u
 
 ## 📂 Project Structure
 ```
-main.py                         # Main menu, user input, and function calls
+NumberAnalayzerSystem.py                         # Main menu, user input, and function calls
 NumberAnalayzerSystem2.py       # Contains all number-related functions
 README.md
 ```

@@ -63,7 +63,7 @@ README.md
 3. Run:
 
 ```bash
-python main.py
+python NumberAnalayzerSystem.py
 ```
 
 ---
